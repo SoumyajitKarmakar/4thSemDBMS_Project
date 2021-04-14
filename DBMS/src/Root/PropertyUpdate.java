@@ -176,7 +176,7 @@ public class PropertyUpdate extends JFrame {
 		
 		textField_5 = new JTextField();
 		textField_5.setColumns(10);
-		textField_5.setBounds(198, 224, 96, 19);
+		textField_5.setBounds(202, 224, 96, 19);
 		contentPane.add(textField_5);
 		
 		textField_6 = new JTextField();
@@ -236,7 +236,7 @@ public class PropertyUpdate extends JFrame {
 		
 		textField_17 = new JTextField();
 		textField_17.setColumns(10);
-		textField_17.setBounds(111, 302, 96, 19);
+		textField_17.setBounds(106, 302, 96, 19);
 		contentPane.add(textField_17);
 	}
 }
