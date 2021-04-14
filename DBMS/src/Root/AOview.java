@@ -53,7 +53,7 @@ public class AOview extends JFrame {
 		contentPane.add(lblNewLabel);
 		
 		JLabel lblNewLabel_1 = new JLabel("Enter ID");
-		lblNewLabel_1.setBounds(163, 128, 45, 13);
+		lblNewLabel_1.setBounds(163, 128, 69, 13);
 		contentPane.add(lblNewLabel_1);
 		
 		JButton btnNewButton = new JButton("Submit");
