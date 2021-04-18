@@ -39,7 +39,7 @@ public class Admin extends JFrame {
 	}
 
 	
-	//Hello
+	//Hello Friends
 	/**
 	 * Create the frame.
 	 */
