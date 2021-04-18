@@ -38,6 +38,8 @@ public class Admin extends JFrame {
 		});
 	}
 
+	
+	//Hello
 	/**
 	 * Create the frame.
 	 */
