@@ -89,9 +89,9 @@ CREATE TABLE Agent_property(
 -- FOR LOGIN TABLE :
 -- ================
 CREATE TABLE LOGIN(
-    id numeric NOT NULL,
-    username varchar(20),
-    password varchar(20)
+    id numeric NOT NULL, -- Treating id as username
+    password varchar(20),
+    designation varchar(20)
 );
 
 -- FOR POPULATING TABLES :
