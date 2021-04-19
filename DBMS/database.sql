@@ -94,6 +94,14 @@ CREATE TABLE LOGIN(
     designation varchar(20)
 );
 
+-- FOR POPULATING LOGIN TABLES :
+-- ============================
+INSERT INTO login VALUES(320085632, 'darshana', 'agent'), (433129593, 'reyansh', 'agent'), (479207032, 'diksha','agent'),  
+(861427340, 'kalpana','agent'), (967320855, 'charu','agent');
+INSERT INTO login VALUES (999999999, "admin", "Admin"), (111111111, "agentoffice", "AgentOffice");
+
+
+
 -- FOR POPULATING TABLES :
 -- =====================
 
