@@ -18,7 +18,7 @@ public class AOview extends JFrame {
 
 	private JPanel contentPane;
 	private JTextField textField;
-
+//JUMBO
 	/**
 	 * Launch the application.
 	 */
