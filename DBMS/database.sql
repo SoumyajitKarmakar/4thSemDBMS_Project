@@ -86,7 +86,13 @@ CREATE TABLE Agent_property(
     FOREIGN KEY(property) REFERENCES Property(id)
 );
 
-
+-- FOR LOGIN TABLE :
+-- ================
+CREATE TABLE LOGIN(
+    id numeric NOT NULL,
+    username varchar(20),
+    password varchar(20)
+);
 
 -- FOR POPULATING TABLES :
 -- =====================
